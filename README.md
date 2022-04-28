@@ -61,7 +61,6 @@
   <a href="https://www.hackerrank.com/solarisin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="solarisin" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/solarisin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="solarisin" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/@solarisin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@solarisin" height="30" width="40" /></a>
-  <a href="https://www.topcoder.com/members/solarisin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="solarisin" height="30" width="40" /></a>
 </p>
 
 <br/><br/>
