@@ -32,7 +32,7 @@
 
 <hr/>
 
-- 🔭 I’m currently working on - **building a cool chess API** and **my portfolio webpage**
+- 🔭 I’m currently working on - **building a cool chess Web API**, **curating github example projects** and **updating my portfolio webpage**
 
 - 🌱 I’m currently learning - **containers, microservices and Microsoft Azure**
 
