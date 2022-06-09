@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working on - **building a cool chess Web API**, **curating github example projects** and **updating my portfolio webpage**
 
-- 🌱 I’m currently learning - **containers, microservices and Microsoft Azure**
+- 🌱 I’m currently learning - **Qt**
 
 <hr/>
 
@@ -55,9 +55,7 @@
   <a href="https://twitter.com/solarisin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solarisin" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/roblongbottom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roblongbottom" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/3617006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3617006" height="30" width="40" /></a>
-  <a href="https://codepen.io/solarisin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="solarisin" height="30" width="40" /></a>  
-  <a href="https://www.hackerrank.com/solarisin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="solarisin" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/solarisin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="solarisin" height="30" width="40" /></a>
+
 </p>
 
 <br/><br/>
