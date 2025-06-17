@@ -27,17 +27,6 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 </p>
-
-<br/>
-
-<hr/>
-
-- 🔭 I’m currently working on - **building a cool chess Web API**, **curating github example projects** and **updating my portfolio webpage**
-
-- 🌱 I’m currently learning - **Qt**
-
-<hr/>
-
 <br/><br/>
 
 <p align="center">
